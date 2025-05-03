@@ -1,1 +1,1 @@
-# Path-Planning-and-Maze-Solving-ROS2-
+# Path Planning and Maze Solving Using ROS2 and Computer Vision
